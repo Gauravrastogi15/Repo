@@ -33,6 +33,10 @@ gg_base + geom_col()
 
 gg_base + geom_area()
 
+gg_base + geom_line( color = "orange", linetype = "dashed" )
+
+
+
 
 
 
